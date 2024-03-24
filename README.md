@@ -1,7 +1,7 @@
 Hi 👋 My name is SHANTANU
 =========================
 
-Web Dev
+Web Dev / Full Stack Developer
 -------
 
 * 🖥️  See my portfolio at [rogue-shark/portfolio-site](http://rogue-shark.github.io/portfolio/)
